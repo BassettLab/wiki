@@ -4,8 +4,10 @@ We are the Bassett Lab! This wiki contains protocols and contacts for tasks that
 
 ## Table of Contents
 
-1. [Editing the wiki]()
-2. Lab meetings
-3. Recruiting
-4. Computing resources
-5. Lab materials
+1. [Wiki](wiki.html)
+2. [Meetings]()
+3. [Calendar]()
+4. [Recruiting]
+5. [Computing]()
+6. [Website]()
+7. [Kitchen]()

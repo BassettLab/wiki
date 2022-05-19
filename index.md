@@ -1,3 +1,7 @@
+---
+title:Home
+nav_order: 0
+---
 # Welcome to the Bassett Lab!
 
 This wiki contains protocols for running the lab.

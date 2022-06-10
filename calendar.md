@@ -7,7 +7,7 @@ nav_order: 3
 Calendar Master: Julia (Kate) [email](mailto:jbryn@seas.upenn.edu)
 
 ## How to subscribe to the calendar
-Click [here](https://calendar.google.com/calendar/u/0?cid=Z3YxNXZkamxzcmVqdGc4YWxuc3Bqc3I3OGdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) to subscribe to the lab's Google Calendar.
+Click [here](https://calendar.google.com/calendar/u/0?cid=Z3YxNXZkamxzcmVqdGc4YWxuc3Bqc3I3OGdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) (on your computer) to subscribe to the lab's Google Calendar.
 
 ## How to create and edit events
 

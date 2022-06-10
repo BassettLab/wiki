@@ -7,10 +7,13 @@ nav_order: 3
 Calendar Master: Julia (Kate) [email](mailto:jbryn@seas.upenn.edu)
 
 ## How to subscribe to the calendar
-for the lab
+Click [here](https://calendar.google.com/calendar/u/0?cid=Z3YxNXZkamxzcmVqdGc4YWxuc3Bqc3I3OGdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) to subscribe to the lab's Google Calendar.
+
+<iframe src="https://calendar.google.com/calendar/embed?src=gv15vdjlsrejtg8alnspjsr78g%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## How to create and edit events
-for event planners (eg Lorenzo for social events, Mathieu for lab meetings, Dani for availability)
+
+To get access to creating and editing events, please email [Kate](mailto:jbryn@seas.upenn.edu). This applies to event planners for social events, lab meetings, recruitment, and Dani.
 
 ## How to manage the calendar
-for future Kate's
+To manage the calendar as a Calendar Master, please email [Kate](mailto:jbryn@seas.upenn.edu) for access.

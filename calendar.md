@@ -3,8 +3,6 @@ nav_order: 3
 ---
 # Lab Calendar
 
-<iframe src="https://calendar.google.com/calendar/embed?src=gv15vdjlsrejtg8alnspjsr78g%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
 ## Contact
 Calendar Master: Julia (Kate) [email](mailto:jbryn@seas.upenn.edu)
 

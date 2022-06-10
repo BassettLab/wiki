@@ -4,7 +4,7 @@ nav_order: 3
 # Lab Calendar
 
 ## Contact
-Calendar Master: Julia (Kate) [email](mailto:jbryn@pennmedicine.upenn.edu)
+Calendar Master: Julia (Kate) [email](mailto:jbryn@seas.upenn.edu)
 
 ## How to subscribe to the calendar
 for the lab

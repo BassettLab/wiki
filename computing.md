@@ -17,4 +17,4 @@ nav_order: 5
 
 * CUBIC (HPC cluster)
     * access to the cluster requires a Penn Medicine account
-          * email 
+        * email 

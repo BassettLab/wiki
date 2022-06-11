@@ -16,4 +16,4 @@ nav_order: 5
     * after approval from Dani, purchase the [Adobe](https://www.adobe.com/creativecloud/buy/students.html) suite and request a reimbursement through Concur
 
 * CUBIC (HPC cluster)
-    * email[mailto:cbica-rt-reply@uphs.upenn.edu] CBICA administrator for instructions
+    * [email](mailto:cbica-rt-reply@uphs.upenn.edu) CBICA administrator (and CC Dani) for instructions

@@ -17,3 +17,8 @@ nav_order: 5
 
 * CUBIC (HPC cluster)
     * [email](mailto:cbica-rt-reply@uphs.upenn.edu) CBICA administrator (and CC Dani) for instructions
+    * documentation on using the CUBIC cluster is available at this [link](https://pennlinc.github.io/docs/cubic#setting-up-your-account)
+
+* Drobo (data storage)
+    * please reach out to me for an account on the lab's Drobo
+    * once access is granted, you can log in to the Drobo at this [link](https://bassett-data.seas.upenn.edu:15001)

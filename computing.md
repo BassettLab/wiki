@@ -7,7 +7,6 @@ nav_order: 5
 ## Contact
 [Shubhankar](mailto:spatank@seas.upenn.edu)
 
-## Software
 * MATLAB
     * post-doctoral researchers and visitors should reach out to me for a license
     * student licenses can be obtained by following school-specific instructions: [SEAS](https://computing.sas.upenn.edu/matlab-student), [SAS](https://computing.sas.upenn.edu/matlab-student), [Wharton](https://apps.wharton.upenn.edu/research_it/software/1/)

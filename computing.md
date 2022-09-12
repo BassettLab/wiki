@@ -9,7 +9,7 @@ nav_order: 5
 
 ## How to get MATLAB?
 * post-doctoral researchers and visitors should reach out to me for a license
-* student licenses can be obtained by following school-specific instructions: [SEAS](https://computing.sas.upenn.edu/matlab-student), [SAS](https://computing.sas.upenn.edu/matlab-student), [Wharton](https://apps.wharton.upenn.edu/research_it/software/1/)
+* student licenses can be obtained by following school-specific instructions: [SEAS](https://cets.seas.upenn.edu/software/matlab/student/), [SAS](https://computing.sas.upenn.edu/matlab-student), [Wharton](https://apps.wharton.upenn.edu/research_it/software/1/)
 
 ## How to get Adobe Creative Cloud?
 * after approval from Dani, purchase the [Adobe](https://www.adobe.com/creativecloud/buy/students.html) suite and request a reimbursement through Concur
